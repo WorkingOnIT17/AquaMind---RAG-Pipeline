@@ -36,10 +36,12 @@ https://github.com/user-attachments/assets/73d9a059-98cd-41fa-8c57-bc72353f7537
 ## ▶️ How to Run
 
 ### Backend (FastAPI)
+```bash
 uvicorn backend.app.main:app --host 0.0.0.0 --port 8080 --reload
-
+```
 ### Frontend 
+```bash
 python frontend/dash_app.py
-
+```
 
 
