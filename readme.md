@@ -252,7 +252,7 @@ https://github.com/user-attachments/assets/73d9a059-98cd-41fa-8c57-bc72353f7537
 
 ---
 
-## 👥 Authors
+## 👥 Author
 
 **Raghav Tiwari**
 - B.Tech Computer Science Engineering
