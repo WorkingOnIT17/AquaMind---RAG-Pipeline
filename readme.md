@@ -228,14 +228,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 👥 Authors
-
-**Raghav Tiwari**
-- B.Tech Computer Science Engineering
-- Software Engineering | Data Analytics | Machine Learning | Cloud
-
----
-
 ## 📺 Demo & Resources
 
 ### Demo Video
@@ -244,6 +236,7 @@ https://github.com/user-attachments/assets/73d9a059-98cd-41fa-8c57-bc72353f7537
 
 ### Live Deployment
 [soon]
+
 
 ---
 
@@ -258,3 +251,9 @@ https://github.com/user-attachments/assets/73d9a059-98cd-41fa-8c57-bc72353f7537
 - [ ] Multi-language support
 
 ---
+
+## 👥 Authors
+
+**Raghav Tiwari**
+- B.Tech Computer Science Engineering
+- Software Engineering | Data Analytics | Machine Learning | Cloud
