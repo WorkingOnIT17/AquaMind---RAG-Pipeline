@@ -250,9 +250,6 @@ https://github.com/user-attachments/assets/73d9a059-98cd-41fa-8c57-bc72353f7537
 - [ ] Real-time data updates
 - [ ] Multi-language support
 
----
-
-## 👥 Author
 
 **Raghav Tiwari**
 - B.Tech Computer Science Engineering
